@@ -1,4 +1,4 @@
-# Caso 1 de Power query:
+# Caso 1:
 
 Este trabajo tiene como propósito mostrar y explicar las diversas técnicas usadas para la limpieza y consolidación de la información, proveniente de datos no ordenados, usando como herramienta de trabajo Power BI.
 
