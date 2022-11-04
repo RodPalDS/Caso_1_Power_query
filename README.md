@@ -1,4 +1,4 @@
-# Casos Power query
+# Casos Power Query
 
 Este proyecto está compuesto de casos/ ejercicios donde será necesario aplicar Power Query de Power BI, ocasionalmente también puede usarse Looker Studio ( ex - Google Data Studio) o Tableau.
 
